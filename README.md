@@ -1,5 +1,7 @@
-<h1 align="center">Salut 👋, I'm Sakshi</h1>
-<h3 align="center">Adapting to the ever evolving world one step at a time.</h3>
+## Salut, [Sakshi here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+<h3 >Adapting to the ever evolving world one step at a time.</h3>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 - 🌱 I’m currently learning **Web Development**
 
