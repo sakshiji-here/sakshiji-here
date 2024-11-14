@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 Reach out to me **@sakshisingh200407@gmail.com**
+- 📫 Reach out to me <a href="@sakshisingh200407@gmail.com">@email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
